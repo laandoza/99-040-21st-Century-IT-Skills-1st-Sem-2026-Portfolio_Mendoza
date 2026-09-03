@@ -2,4 +2,4 @@
 This repository acts as a portolio to showcase all of my completed outputs for my 21st Century IT Skills course!
 ## Table of Contents
 
--[Activity 1] 
+-[Activity 1](#Activity 1)
