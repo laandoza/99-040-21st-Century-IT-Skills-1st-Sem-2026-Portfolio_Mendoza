@@ -7,5 +7,5 @@ This repository acts as a portolio to showcase all of my completed outputs for m
   - [Activity 2](./Prelim%20Activities/Activity%202)
   - [Activity 3](./Prelim%20Activities/Activity%203)
 - [Midterm Activities](./Midterm%20Activities)
-  - [Presentation Exam](./Midterm%20Activities/Presentation%2Exam)
-  - [Laboratory Exam](./Midterm%20Activities/Laboratory%2Exam)
+  - [Presentation Exam](./Midterm%20Activities/Presentation%20Exam)
+  - [Laboratory Exam](./Midterm%20Activities/Laboratory%20Exam)
