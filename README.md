@@ -1,47 +1,45 @@
+<div align="center">
+
+![Fallout Vault-Tec Portfolio Banner](./assets/fallout-portfolio-banner.png)
+
 # ☢️ 99-040 | 21st-Century IT Skills
-### `1st Semester • 2026 • Portfolio_Mendoza`
+### 1st Semester • 2026 • Portfolio_Mendoza
 
-> **VAULT-TEC EDUCATIONAL DIVISION**
->
-> Welcome, Vault Dweller!
->
-> This repository serves as the official archive of my completed outputs for **21st Century IT Skills**. All activities, examinations and academic achievements have been logged and stored for future reference.
->
-> *Your future begins with a well-organized portfolio. Please enjoy your stay in the Vault.*
+**VAULT-TEC EDUCATIONAL DIVISION**
+
+*Course portfolio containing completed activities and examinations.*
 
 ---
 
-## 📟 PIP-BOY 3000 — DIRECTORY
+</div>
 
-### 🟢 [01] PRELIMINARY OPERATIONS
+## 📟 Table of Contents
 
-- 📂 **[Prelim Activities](./Prelim%20Activities)**
-  - 🟢 [Activity 1 — Initial Deployment](./Prelim%20Activities/Activity%201)
-  - 🟢 [Activity 2 — Field Operations](./Prelim%20Activities/Activity%202)
-  - 🟢 [Activity 3 — Technical Training](./Prelim%20Activities/Activity%203)
+### 🟢 Prelim Activities
+- 📂 [Prelim Activities](./Prelim%20Activities)
+  - [Activity 1](./Prelim%20Activities/Activity%201)
+  - [Activity 2](./Prelim%20Activities/Activity%202)
+  - [Activity 3](./Prelim%20Activities/Activity%203)
 
-### 🟡 [02] MIDTERM OPERATIONS
-
-- 📂 **[Midterm Activities](./Midterm%20Activities)**
-  - 🟡 [Presentation Exam — Briefing Room](./Midterm%20Activities/Presentation%20Exam)
-  - 🟡 [Laboratory Exam — Technical Division](./Midterm%20Activities/Laboratory%20Exam)
+### 🟡 Midterm Activities
+- 📂 [Midterm Activities](./Midterm%20Activities)
+  - [Presentation Exam](./Midterm%20Activities/Presentation%20Exam)
+  - [Laboratory Exam](./Midterm%20Activities/Laboratory%20Exam)
 
 ---
 
-## ⚙️ VAULT STATUS REPORT
+## ⚙️ Vault Status
 
-| SYSTEM | STATUS |
+| System | Status |
 |:---|:---|
 | Repository | `ONLINE` |
-| Prelim Operations | `ARCHIVED` |
-| Midterm Operations | `ARCHIVED` |
-| Portfolio Access | `AUTHORIZED` |
+| Prelim Activities | `ARCHIVED` |
+| Midterm Activities | `ARCHIVED` |
 
 ---
 
-> [!NOTE]
-> **VAULT-TEC REMINDER:** Knowledge is your greatest survival tool. Keep learning, keep exploring and remember — war never changes, but technology does.
+<div align="center">
 
----
+`END OF TRANSMISSION` ☢️
 
-`END OF TRANSMISSION // VAULT-TEC PERSONNEL ONLY` ☢️
+</div>
