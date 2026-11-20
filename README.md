@@ -12,7 +12,17 @@
 
 ## 🍝 About
 
-This repository documents the completed coursework and assessments for **99-040: 21st-Century IT Skills**, including activities on presentation design principles, personal branding, and other coursework, alongside midterm presentation and laboratory examination.
+This repository documents the completed coursework and assessments for **99-040: 21st-Century IT Skills**. The portfolio includes activities covering presentation design, personal branding, infographics and documentation, Google Workspace tools, AI-generated outputs, website creation, and resume generation.
+
+### Table of Contents
+
+- [Activity 1: Presentation Design Principles](./Activity-1)
+- [Activity 2: Personal Branding](./Activity-2)
+- [Activity 3: Social Media Infographics & Project Documentation](./Activity-3)
+- [Activity 4: Group Presentation and Exam](./Activity-4)
+- [Activity 5: AI Tools Activity](./Activity-5)
+- [Activity 6: Making A Website](./Activity-6)
+- [Activity 7: Resume Generating](./Activity-7)
 
 ---
 
