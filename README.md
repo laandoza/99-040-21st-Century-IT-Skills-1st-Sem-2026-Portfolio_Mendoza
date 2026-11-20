@@ -24,8 +24,7 @@ This repository documents the completed coursework and assessments for **99-040:
 
 </div>
 
-I am Mendoza, a 1st-year student taking **99-040: 21st-Century IT Skills** at **[School Name]**. I am interested in technology, design, digital communication, and learning practical tools that help me create useful and engaging projects.
-
+I am Lance A. Mendoza, a 4th-year student taking **Nursing** at **Ateneo De Davao University**. I am interested in books, videogames, and music. 
 ### 🛠️ Skills & Tools
 
 - Presentation design
@@ -36,8 +35,8 @@ I am Mendoza, a 1st-year student taking **99-040: 21st-Century IT Skills** at **
 - Artificial intelligence tools
 - Website creation
 - Resume generation
-- Microsoft Office or Google Workspace *(update to match the tools you used)*
-- Canva or Figma *(update to match the tools you used)*
+- Google Sheets
+- Canva 
 
 ### Table of Contents
 
