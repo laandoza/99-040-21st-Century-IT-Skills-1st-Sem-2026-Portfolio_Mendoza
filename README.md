@@ -1,6 +1,5 @@
 <div align="center">
 
-![Will Smith Eating Spaghetti Portfolio Banner](./assets/portfolio-banner.png)
 
 # 🍝 99-040 | 21st-Century IT Skills
 ### 1st Semester • 2026 • Portfolio_Mendoza
