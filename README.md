@@ -8,16 +8,7 @@
 
 ### FIRST SEMESTER · 2026 · PORTFOLIO_MENDOZA
 
-<img src="https://img.shields.io/badge/FERELDEN_ARCHIVES-2026-263C58?style=for-the-badge">
-<img src="https://img.shields.io/badge/GREY_WARDEN_RECORD-001-A8C0D8?style=for-the-badge&labelColor=202832">
-
 <br><br>
-
-<em>Vigilance. Duty. Sacrifice.</em>
-
-<br>
-
-<img src="Images/warden_divider.svg" width="100%" alt="Ornamental silver-blue divider">
 
 </div>
 
@@ -25,7 +16,7 @@
 
 <div align="center">
 
-## I · REPOSITORY OVERVIEW
+## I · ABOUT 
 
 <sub>THE ARCHIVE</sub>
 
@@ -47,7 +38,7 @@ The archive contains work involving digital design, personal branding, documenta
 
 <div align="center">
 
-## II · THE RECRUIT
+## II · ABOUT ME
 
 <sub>PERSONAL RECORD</sub>
 
