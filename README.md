@@ -18,10 +18,6 @@
 
 <sub>THE ARCHIVE</sub>
 
-</div>
-
-<div align="justify">
-
 This repository documents my coursework, activities, and examinations for **99-040: 21st-Century IT Skills**.
 
 The archive contains work involving digital design, personal branding, documentation, presentations, artificial intelligence, web development, and professional materials.
@@ -128,7 +124,7 @@ Books · Video Games · Music
 
 <div align="center">
 
-## IV · CHRONICLE OF ACTIVITIES
+## IV · TABLE OF CONTENTS
 
 <sub>SEMESTER RECORDS</sub>
 
