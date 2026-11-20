@@ -28,7 +28,7 @@ The archive contains work involving digital design, personal branding, documenta
 
 <div align="center">
 
-<img src="Images/warden_divider.svg" width="100%" alt="Ornamental divider">
+<img src="Images/warden_divider_dao.png" width="100%" alt="Ornamental divider">
 
 </div>
 
@@ -58,7 +58,7 @@ Books · Video Games · Music
 
 <div align="center">
 
-<img src="Images/warden_divider.svg" width="100%" alt="Ornamental divider">
+<img src="Images/warden_divider_dao.png" width="100%" alt="Ornamental divider">
 
 </div>
 
@@ -105,7 +105,7 @@ Books · Video Games · Music
 
 <div align="center">
 
-<img src="Images/warden_divider.svg" width="100%" alt="Ornamental divider">
+<img src="Images/warden_divider_dao.png" width="100%" alt="Ornamental divider">
 
 </div>
 
@@ -171,7 +171,7 @@ Books · Video Games · Music
 
 <div align="center">
 
-<img src="Images/warden_divider.svg" width="100%" alt="Ornamental divider">
+<img src="Images/warden_divider_dao.png" width="100%" alt="Ornamental divider">
 
 </div>
 
