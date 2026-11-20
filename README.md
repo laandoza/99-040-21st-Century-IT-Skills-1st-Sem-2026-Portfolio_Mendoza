@@ -12,7 +12,32 @@
 
 ## 🍝 About
 
-This repository documents the completed coursework and assessments for **99-040: 21st-Century IT Skills**. The portfolio includes activities covering presentation design, personal branding, infographics and documentation, Google Workspace tools, AI-generated outputs, website creation, and resume generation.
+This repository documents the completed coursework and assessments for **99-040: 21st-Century IT Skills**. The portfolio includes activities covering presentation design, personal branding, infographics, project documentation, group presentations, artificial intelligence tools, website creation, and resume generation.
+
+## 👤 About Me
+
+<div align="center">
+
+<img src="https://avatars.githubusercontent.com/u/324415695?v=4" alt="Profile photo of Mendoza" width="180" style="border-radius: 50%;">
+
+### Mendoza
+
+</div>
+
+I am Mendoza, a 1st-year student taking **99-040: 21st-Century IT Skills** at **[School Name]**. I am interested in technology, design, digital communication, and learning practical tools that help me create useful and engaging projects.
+
+### 🛠️ Skills & Tools
+
+- Presentation design
+- Personal branding
+- Infographic and visual design
+- Project documentation
+- Group presentations
+- Artificial intelligence tools
+- Website creation
+- Resume generation
+- Microsoft Office or Google Workspace *(update to match the tools you used)*
+- Canva or Figma *(update to match the tools you used)*
 
 ### Table of Contents
 
