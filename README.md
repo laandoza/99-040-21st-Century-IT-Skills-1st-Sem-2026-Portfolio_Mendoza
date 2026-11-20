@@ -58,10 +58,6 @@ Books · Video Games · Music
 
 <div align="center">
 
-<img src="Images/warden_divider_dao_transparent.png" width="100%" alt="Ornamental divider">
-
-</div>
-
 ---
 
 <div align="center">
@@ -104,10 +100,6 @@ Books · Video Games · Music
 </table>
 
 <div align="center">
-
-<img src="Images/warden_divider_dao_transparent.png" width="100%" alt="Ornamental divider">
-
-</div>
 
 ---
 
