@@ -12,6 +12,10 @@
 
 </div>
 
+## 🍝 About
+
+This repository documents the completed coursework and assessments for **99-040: 21st-Century IT Skills**, including activities on presentation design principles, personal branding, and other coursework, alongside midterm presentation and laboratory examinations.
+
 ## 🍝 Table of Contents
 
 ### 🟡 Prelim Activities
