@@ -48,8 +48,6 @@ The archive contains work involving digital design, personal branding, documenta
 
 Ateneo de Davao University
 
-<br>
-
 <sub>INTERESTS</sub>
 
 Books · Video Games · Music
