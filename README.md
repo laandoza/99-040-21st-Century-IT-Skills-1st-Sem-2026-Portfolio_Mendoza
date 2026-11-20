@@ -40,25 +40,23 @@ The archive contains work involving digital design, personal branding, documenta
 
 <sub>PERSONAL RECORD</sub>
 
-</div>
-
-<table align="center">
-<tr>
-<td width="35%" align="center" valign="middle">
-
 <img src="Images/Profilepicture.jpg" width="180" alt="Profile photo of Mendoza">
 
-# LANCE A. MENDOZA
+### LANCE A. MENDOZA
 
 **Nursing · 4th Year**
 
 Ateneo de Davao University
 
-**Interests**
+<br>
+
+<sub>INTERESTS</sub>
 
 Books · Video Games · Music
 
 </div>
+
+<div align="center">
 
 <img src="Images/warden_divider.svg" width="100%" alt="Ornamental divider">
 
