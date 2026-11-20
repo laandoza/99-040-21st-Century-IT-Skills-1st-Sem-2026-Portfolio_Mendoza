@@ -16,19 +16,6 @@
 
 This repository documents the completed coursework and assessments for **99-040: 21st-Century IT Skills**, including activities on presentation design principles, personal branding, and other coursework, alongside midterm presentation and laboratory examinations.
 
-## 🍝 Table of Contents
-
-### 🟡 Prelim Activities
-- 📂 [Prelim Activities](./Prelim%20Activities)
-  - 📄 [Activity 1](./Prelim%20Activities/Activity%201)
-  - 📄 [Activity 2](./Prelim%20Activities/Activity%202)
-  - 📄 [Activity 3](./Prelim%20Activities/Activity%203)
-
-### 🟠 Midterm Activities
-- 📂 [Midterm Activities](./Midterm%20Activities)
-  - 📄 [Presentation Exam](./Midterm%20Activities/Presentation%20Exam)
-  - 📄 [Laboratory Exam](./Midterm%20Activities/Laboratory%20Exam)
-
 ---
 
 ## 🍝 Portfolio Status
@@ -36,8 +23,6 @@ This repository documents the completed coursework and assessments for **99-040:
 | System | Status |
 |:---|:---|
 | Repository | `ONLINE` 🟢 |
-| Prelim Activities | `ARCHIVED` 📁 |
-| Midterm Activities | `ARCHIVED` 📁 |
 | Portfolio Access | `AUTHORIZED` 🔓 |
 
 ---
