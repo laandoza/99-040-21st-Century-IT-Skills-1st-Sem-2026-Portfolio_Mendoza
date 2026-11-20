@@ -4,8 +4,6 @@
 # 🍝 99-040 | 21st-Century IT Skills
 ### 1st Semester • 2026 • Portfolio_Mendoza
 
-**GOOD FOOD = GOOD CODE**
-
 *Course portfolio containing completed activities and examinations.*
 
 ---
@@ -14,7 +12,7 @@
 
 ## 🍝 About
 
-This repository documents the completed coursework and assessments for **99-040: 21st-Century IT Skills**, including activities on presentation design principles, personal branding, and other coursework, alongside midterm presentation and laboratory examinations.
+This repository documents the completed coursework and assessments for **99-040: 21st-Century IT Skills**, including activities on presentation design principles, personal branding, and other coursework, alongside midterm presentation and laboratory examination.
 
 ---
 
