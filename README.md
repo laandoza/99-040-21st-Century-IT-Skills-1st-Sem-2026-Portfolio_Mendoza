@@ -20,11 +20,15 @@
 
 </div>
 
+<div align="justify">
+
 This repository documents my coursework, activities, and examinations for **99-040: 21st-Century IT Skills**.
 
 The archive contains work involving digital design, personal branding, documentation, presentations, artificial intelligence, web development, and professional materials.
 
 > A record of work completed, knowledge acquired, and skills developed throughout the semester.
+
+</div>
 
 <div align="center">
 
@@ -42,14 +46,14 @@ The archive contains work involving digital design, personal branding, documenta
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <td width="35%" align="center" valign="middle">
 
 <img src="Images/Profilepicture.jpg" width="180" alt="Profile photo of Mendoza">
 
 </td>
-<td width="65%" valign="middle">
+<td width="65%" align="justify" valign="middle">
 
 ### LANCE A. MENDOZA
 
@@ -79,13 +83,13 @@ Books · Video Games · Music
 
 ## III · ACQUIRED SKILLS
 
-<sub>PROFICIENCIES & TOOLS</sub>
+<sub>PROFICIENCIES &amp; TOOLS</sub>
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="justify" valign="top">
 
 ### ◈ Technical Proficiencies
 
@@ -100,15 +104,15 @@ Books · Video Games · Music
 - Resume development
 
 </td>
-<td width="50%" valign="top">
+<td width="50%" align="center" valign="top">
 
-### ◈ Tools & Applications
+### ◈ Tools &amp; Applications
 
-<img src="https://img.shields.io/badge/Google_Sheets-647F91?style=flat-square&logo=googlesheets&logoColor=white">
+<img src="https://img.shields.io/badge/Google_Sheets-647F91?style=flat-square&amp;logo=googlesheets&amp;logoColor=white">
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Canva-526C89?style=flat-square&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/Canva-526C89?style=flat-square&amp;logo=canva&amp;logoColor=white">
 
 </td>
 </tr>
@@ -130,52 +134,52 @@ Books · Video Games · Music
 
 </div>
 
-<table>
+<table align="center">
 <tr>
 <th width="12%" align="center">NO.</th>
-<th align="left">ACTIVITY</th>
+<th align="center">ACTIVITY</th>
 <th width="20%" align="center">RECORD</th>
 </tr>
 
 <tr>
 <td align="center">01</td>
-<td><a href="./Activity-1">Presentation Design Principles</a></td>
+<td align="justify"><a href="./Activity-1">Presentation Design Principles</a></td>
 <td align="center">FILED</td>
 </tr>
 
 <tr>
 <td align="center">02</td>
-<td><a href="./Activity-2">Personal Branding</a></td>
+<td align="justify"><a href="./Activity-2">Personal Branding</a></td>
 <td align="center">FILED</td>
 </tr>
 
 <tr>
 <td align="center">03</td>
-<td><a href="./Activity-3">Social Media Infographics & Project Documentation</a></td>
+<td align="justify"><a href="./Activity-3">Social Media Infographics &amp; Project Documentation</a></td>
 <td align="center">FILED</td>
 </tr>
 
 <tr>
 <td align="center">04</td>
-<td><a href="./Activity-4">Group Presentation and Exam</a></td>
+<td align="justify"><a href="./Activity-4">Group Presentation and Exam</a></td>
 <td align="center">FILED</td>
 </tr>
 
 <tr>
 <td align="center">05</td>
-<td><a href="./Activity-5">AI Tools Activity</a></td>
+<td align="justify"><a href="./Activity-5">AI Tools Activity</a></td>
 <td align="center">FILED</td>
 </tr>
 
 <tr>
 <td align="center">06</td>
-<td><a href="./Activity-6">Making a Website</a></td>
+<td align="justify"><a href="./Activity-6">Making a Website</a></td>
 <td align="center">FILED</td>
 </tr>
 
 <tr>
 <td align="center">07</td>
-<td><a href="./Activity-7">Resume Generating</a></td>
+<td align="justify"><a href="./Activity-7">Resume Generating</a></td>
 <td align="center">FILED</td>
 </tr>
 </table>
@@ -196,29 +200,29 @@ Books · Video Games · Music
 
 </div>
 
-<table>
+<table align="center">
 <tr>
-<th align="left">ARCHIVE COMPONENT</th>
+<th align="center">ARCHIVE COMPONENT</th>
 <th align="center">CURRENT STATUS</th>
 </tr>
 
 <tr>
-<td>Repository</td>
+<td align="center">Repository</td>
 <td align="center"><img src="https://img.shields.io/badge/ONLINE-526C89?style=flat-square"></td>
 </tr>
 
 <tr>
-<td>Portfolio Access</td>
-<td align="center"><img src="https://img.shields.io/badge/ACCESSIBLE-A8C0D8?style=flat-square&labelColor=35485C"></td>
+<td align="center">Portfolio Access</td>
+<td align="center"><img src="https://img.shields.io/badge/ACCESSIBLE-A8C0D8?style=flat-square&amp;labelColor=35485C"></td>
 </tr>
 
 <tr>
-<td>Coursework Records</td>
+<td align="center">Coursework Records</td>
 <td align="center"><img src="https://img.shields.io/badge/ACTIVITIES_RECORDED-647F91?style=flat-square"></td>
 </tr>
 
 <tr>
-<td>Semester Progress</td>
-<td align="center"><img src="https://img.shields.io/badge/ONGOING-B9A47C?style=flat-square&labelColor=49443A"></td>
+<td align="center">Semester Progress</td>
+<td align="center"><img src="https://img.shields.io/badge/ONGOING-B9A47C?style=flat-square&amp;labelColor=49443A"></td>
 </tr>
 </table>
