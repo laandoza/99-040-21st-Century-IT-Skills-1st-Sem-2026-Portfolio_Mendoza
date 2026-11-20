@@ -18,7 +18,7 @@ This repository documents the completed coursework and assessments for **99-040:
 
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/324415695?v=4" alt="Profile photo of Mendoza" width="180" style="border-radius: 50%;">
+<img src="Images/Vewpycmt.jpg" alt="Profile photo of Mendoza" width="180" style="border-radius: 50%;">
 
 ### Mendoza
 
