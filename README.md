@@ -8,8 +8,6 @@
 
 ### FIRST SEMESTER · 2026 · PORTFOLIO_MENDOZA
 
-<br><br>
-
 </div>
 
 ---
@@ -224,29 +222,3 @@ Books · Video Games · Music
 <td align="center"><img src="https://img.shields.io/badge/ONGOING-B9A47C?style=flat-square&labelColor=49443A"></td>
 </tr>
 </table>
-
-<br>
-
-<div align="center">
-
-<img src="Images/warden_divider.svg" width="100%" alt="Ornamental divider">
-
-<br>
-
-### IN PEACE, VIGILANCE.
-### IN WAR, VICTORY.
-### IN DEATH, SACRIFICE.
-
-<br>
-
-<sub>The work is not yet finished.</sub>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/END_OF_RECORD-263C58?style=for-the-badge&labelColor=171C24">
-
-<br>
-
-<img src="Images/warden_divider.svg" width="100%" alt="Ornamental divider">
-
-</div>
