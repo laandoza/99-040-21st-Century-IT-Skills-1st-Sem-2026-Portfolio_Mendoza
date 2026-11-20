@@ -70,31 +70,21 @@ Books · Video Games · Music
 
 <table align="center">
 <tr>
-<td width="50%" align="justify" valign="top">
+<th width="28%" align="center">CATEGORY</th>
+<th align="center">ACQUIRED SKILLS</th>
+</tr>
 
-### ◈ Technical Proficiencies
+<tr>
+<td align="center"><b>Technical Proficiencies</b></td>
+<td align="left">Presentation design · Personal branding · Infographic design · Visual communication · Project documentation · Group presentations · AI-assisted tools · Website creation · Resume development</td>
+</tr>
 
-- Presentation design
-- Personal branding
-- Infographic design
-- Visual communication
-- Project documentation
-- Group presentations
-- AI-assisted tools
-- Website creation
-- Resume development
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### ◈ Tools &amp; Applications
-
+<tr>
+<td align="center"><b>Tools &amp; Applications</b></td>
+<td align="center">
 <img src="https://img.shields.io/badge/Google_Sheets-647F91?style=flat-square&amp;logo=googlesheets&amp;logoColor=white">
-
-<br><br>
-
+&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Canva-526C89?style=flat-square&amp;logo=canva&amp;logoColor=white">
-
 </td>
 </tr>
 </table>
