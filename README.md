@@ -48,13 +48,6 @@ The archive contains work involving digital design, personal branding, documenta
 
 <img src="Images/Profilepicture.jpg" width="180" alt="Profile photo of Mendoza">
 
-</td>
-<td width="65%" align="justify" valign="middle">
-
-<div align="center">
-
-<img src="Images/Profilepicture.jpg" width="180" alt="Profile photo of Mendoza">
-
 # LANCE A. MENDOZA
 
 **Nursing · 4th Year**
